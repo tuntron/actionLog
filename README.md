@@ -22,7 +22,7 @@ or
 
 Require this package with composer:
 ```
-composer require Tuntron/actionLog dev-master
+composer require Tuntron/laravel-action-log dev-master
 ```
 
 Update your packages with ```composer update``` or install with ```composer install```.

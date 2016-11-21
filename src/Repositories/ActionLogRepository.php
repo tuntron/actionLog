@@ -9,7 +9,6 @@ class ActionLogRepository {
      * 记录用户操作日志
      * @param $type
      * @param $content
-     * @param ActionLog $actionLog
      * @return bool
      */
     public function createActionLog($type,$content)
