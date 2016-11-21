@@ -1,0 +1,23 @@
+{
+  "name": "tuntron/actionLog",
+  "description": "A laravel package of ActionLog",
+  "keywords": ["laravel","ActionLog"],
+
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "chenchen",
+      "email": "860664331@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Tuntron\\ActionLog\\": "src/"
+    }
+  }
+ 
+}
