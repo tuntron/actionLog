@@ -1,5 +1,5 @@
 <?php
-namespace tuntron\ActionLog\Repositories;
+namespace Tuntron\ActionLog\Repositories;
 
 use Tuntron\ActionLog\Services\clientService;
 class ActionLogRepository {
