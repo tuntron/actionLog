@@ -12,7 +12,7 @@ project's `composer.json`.
 {
     "require": {
        
-        "Tuntron/actionLog": "dev-master"
+        "Tuntron/laravel-action-log": "dev-master"
     },
    
 }
